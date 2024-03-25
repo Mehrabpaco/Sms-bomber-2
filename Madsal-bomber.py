@@ -918,5 +918,6 @@ while True:
     try: Vip(phone, Time)
     except KeyboardInterrupt: exit(f'{r}[-] User Exited')
     except: print(f'{r}[-] Error TimeOut')
-# Channel: @hack666m
-# Coder; madsal - :)
+# Channel: @mehrabpaco
+
+# Coder; paco - :)
